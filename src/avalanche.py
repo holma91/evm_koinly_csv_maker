@@ -10,7 +10,20 @@ import pandas as pd
 from env_vars import APIKEY_SNOWTRACE, ACCOUNT1
 
 
+AVAX_DECIMALS = 18
+
+#  tte with tx
+#  tte without tx
+#  tte with tte
+#  tx without tte
+
+
 def main(address):
+    tte_with_tx = []
+    tte2_with_tx = []  # token swap
+    tte_without_tx = []
+    tx_without_tte = []
+
     objs = []
     transactions = requests.get(
         f'https://api.snowtrace.io/api?module=account&action=txlist&address={address}&startblock=1&endblock=99999999&sort=asc&apikey={APIKEY_SNOWTRACE}').json()['result']
@@ -27,15 +40,30 @@ def main(address):
                     searched_tx = tx
                     break
 
+            searched_tte = {}
+
+            for tte2 in erc20_transfers:
+                if tte2['hash'] == tte['hash'] and tte2['from'] != tte['from']:
+                    # we found a erc20 swap
+                    searched_tte = tte2
+
             if searched_tx == {}:
+                # TTE WITHOUT TX
                 # bridge, airdrop, joe from other wallet, insert these manually
                 # print(json.dumps(tte, indent=2))
+                tte_without_tx.append(tte)
                 continue
+
+            if searched_tte != {}:
+                # TTE WITH ANOTHER TTE AND TX
+                tte2_with_tx.append()
+
+            # SINGLE TTE WITH TX
             fee = int(tx['gasPrice']) * int(tx['gasUsed'])
-            correct_fee = to_correct_unit(fee, 18)
+            correct_fee = to_correct_unit(fee, AVAX_DECIMALS)
 
             correct_amount_tte = to_correct_unit(int(tte['value']), int(tte['tokenDecimal']))
-            correct_amount_tx = to_correct_unit(int(searched_tx['value']), 18)
+            correct_amount_tx = to_correct_unit(int(searched_tx['value']), AVAX_DECIMALS)
 
             obj = {
                 'type': 'tx out, tte in',
@@ -49,7 +77,7 @@ def main(address):
                 'timeStamp': tx['timeStamp'],
                 'tokenDecimal': tte['tokenDecimal'],
             }
-            objs.append(obj)
+            tte_with_tx.append(obj)
         elif tte['from'] == address:
             pass
 
