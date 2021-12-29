@@ -1,0 +1,412 @@
+[
+  {
+    "type": "tx out, tte in",
+    "received amount": "2.439836828498",
+    "received currency": "JOE",
+    "sent amount": "0.1",
+    "sent currency": "AVAX",
+    "hash": "0x465b1905d46d7cc8bb61f8a38904002ad9d73d62a6588355c4ff948daa5b860a",
+    "timeStamp": "1634503462",
+    "tokenDecimal": "18"
+  },
+  {
+    "type": "tx out, tte in",
+    "received amount": "246.64846985900607",
+    "received currency": "JOE",
+    "sent amount": "10.118752870000002",
+    "sent currency": "AVAX",
+    "hash": "0x257a8639b095206cd23f2fb973d76113a1f30e440590427dff288833d930debf",
+    "timeStamp": "1634504888",
+    "tokenDecimal": "18"
+  },
+  {
+    "type": "tx out, tte in",
+    "received amount": "34.778712401223025",
+    "received currency": "TEDDY",
+    "sent amount": "0.36051881",
+    "sent currency": "AVAX",
+    "hash": "0xbb835b3b0aa9012b4f76f9ca1ed1398993d51a54a3b4f3d4b08ac93c7422a948",
+    "timeStamp": "1634571206",
+    "tokenDecimal": "18"
+  },
+  {
+    "type": "tx out, tte in",
+    "received amount": "883.9775419907438",
+    "received currency": "TEDDY",
+    "sent amount": "8.562730065",
+    "sent currency": "AVAX",
+    "hash": "0xd9013e0ac60fcac3da90554ea2269f40c1cd0b87eb8c138467d98e0c3d06a399",
+    "timeStamp": "1634573279",
+    "tokenDecimal": "18"
+  },
+  {
+    "type": "tx out, tte in",
+    "received amount": "1737.9147528173294",
+    "received currency": "TEDDY",
+    "sent amount": "18.139093345",
+    "sent currency": "AVAX",
+    "hash": "0xb95b9d05da7d219234d71f6390b1aaadb09a544cb5b4d7ddd3c9c7c9a69f0bb9",
+    "timeStamp": "1634586842",
+    "tokenDecimal": "18"
+  },
+  {
+    "type": "tx out, tte in",
+    "received amount": "351.82179902347156",
+    "received currency": "JOE",
+    "sent amount": "17.577439865000002",
+    "sent currency": "AVAX",
+    "hash": "0xc84711f6c2fe846515bc7294ad33caad6d720b76589759488cd8bfdec7ab8f0b",
+    "timeStamp": "1634588737",
+    "tokenDecimal": "18"
+  },
+  {
+    "type": "tx out, tte in",
+    "received amount": "1134.5040563850193",
+    "received currency": "TEDDY",
+    "sent amount": "15.000000000000002",
+    "sent currency": "AVAX",
+    "hash": "0x7a04b0b757ed213c7a3749af623c4a4618332154b7f94c2cdeaaad422cea22ab",
+    "timeStamp": "1634667655",
+    "tokenDecimal": "18"
+  },
+  {
+    "type": "tx out, tte in",
+    "received amount": "0.0009347528147556941",
+    "received currency": "JOE",
+    "sent amount": "0.0",
+    "sent currency": "AVAX",
+    "hash": "0xbd64197492985579bb160b6fbb2f9b5fd68714da85ca8578ab13960da18059eb",
+    "timeStamp": "1634716492",
+    "tokenDecimal": "18"
+  },
+  {
+    "type": "tx out, tte in",
+    "received amount": "100.00000000000001",
+    "received currency": "xJOE",
+    "sent amount": "0.0",
+    "sent currency": "AVAX",
+    "hash": "0xbd64197492985579bb160b6fbb2f9b5fd68714da85ca8578ab13960da18059eb",
+    "timeStamp": "1634716492",
+    "tokenDecimal": "18"
+  },
+  {
+    "type": "tx out, tte in",
+    "received amount": "414.10191451953256",
+    "received currency": "JOE",
+    "sent amount": "19.455312685",
+    "sent currency": "AVAX",
+    "hash": "0x2fc5024a5e55bb0b3205c48f5e18c5f3fba0a9ae42bf63915d564ecebc9dc9c2",
+    "timeStamp": "1634738604",
+    "tokenDecimal": "18"
+  },
+  {
+    "type": "tx out, tte in",
+    "received amount": "490.00000000000006",
+    "received currency": "JOE",
+    "sent amount": "22.990324683341356",
+    "sent currency": "AVAX",
+    "hash": "0x3bc2d5dc6e5a27a8502ff12880f14716b94fc700069ff96630757946fb57dd8c",
+    "timeStamp": "1634740461",
+    "tokenDecimal": "18"
+  },
+  {
+    "type": "tx out, tte in",
+    "received amount": "1003.629652910416",
+    "received currency": "TEDDY",
+    "sent amount": "11.65",
+    "sent currency": "AVAX",
+    "hash": "0x3d5ba654312c6b1d511fd807a6a253c13aaf11dfd92c5e5b90c92709b744eec2",
+    "timeStamp": "1634749674",
+    "tokenDecimal": "18"
+  },
+  {
+    "type": "tx out, tte in",
+    "received amount": "210.6444248774304",
+    "received currency": "TEDDY",
+    "sent amount": "2.45",
+    "sent currency": "AVAX",
+    "hash": "0x4e5039e7f5ab52c98b40558d853dc5d68461749aa34b59031b4f854c2c608e42",
+    "timeStamp": "1634749774",
+    "tokenDecimal": "18"
+  },
+  {
+    "type": "tx out, tte in",
+    "received amount": "302.8724753723652",
+    "received currency": "JOE",
+    "sent amount": "14.47893876589064",
+    "sent currency": "AVAX",
+    "hash": "0x43b0a31b2ce22fec6e60e53be59791a5764c0d626c0750c8004dd45cce851fb6",
+    "timeStamp": "1634749807",
+    "tokenDecimal": "18"
+  },
+  {
+    "type": "tx out, tte in",
+    "received amount": "470.8600772357804",
+    "received currency": "JOE",
+    "sent amount": "22.35702306",
+    "sent currency": "AVAX",
+    "hash": "0xa46b8aa8da999ac1829db3e3a44b48c555bdf9b457e60a89327cb1c79e763398",
+    "timeStamp": "1634776949",
+    "tokenDecimal": "18"
+  },
+  {
+    "type": "tx out, tte in",
+    "received amount": "202.22737488954093",
+    "received currency": "JOE",
+    "sent amount": "10.75",
+    "sent currency": "AVAX",
+    "hash": "0x61494294a4d1516ed959ed0fc1dc95e6e3d7d54fb60c60eec49742a25e8d2ef8",
+    "timeStamp": "1634812670",
+    "tokenDecimal": "18"
+  },
+  {
+    "type": "tx out, tte in",
+    "received amount": "1500.7890394855724",
+    "received currency": "TEDDY",
+    "sent amount": "17.310000000000002",
+    "sent currency": "AVAX",
+    "hash": "0x3fd236340ab720ab195273c8e1a37faf0748922801960fa661316476845d32f9",
+    "timeStamp": "1634812759",
+    "tokenDecimal": "18"
+  },
+  {
+    "type": "tx out, tte in",
+    "received amount": "239.16156084765092",
+    "received currency": "JOE",
+    "sent amount": "11.756",
+    "sent currency": "AVAX",
+    "hash": "0x8cd93382b340bbf1ab1a70bcce744c123dab17a9213530564127021306057bb3",
+    "timeStamp": "1634815833",
+    "tokenDecimal": "18"
+  },
+  {
+    "type": "tx out, tte in",
+    "received amount": "62.572548",
+    "received currency": "USDC.e",
+    "sent amount": "1.0",
+    "sent currency": "AVAX",
+    "hash": "0x17dc4ad0ce503d434c94212c0d70a80c2cb04563c6abb2dc5d2cb6c444a1cfa9",
+    "timeStamp": "1634816454",
+    "tokenDecimal": "6"
+  },
+  {
+    "type": "tx out, tte in",
+    "received amount": "299.90435006235407",
+    "received currency": "JOE",
+    "sent amount": "14.680000000000001",
+    "sent currency": "AVAX",
+    "hash": "0x961d2f5014deebff44fab924c4470ee85514dccd4d8020862d0b0948d84a143f",
+    "timeStamp": "1634817159",
+    "tokenDecimal": "18"
+  },
+  {
+    "type": "tx out, tte in",
+    "received amount": "92.06675",
+    "received currency": "MIM",
+    "sent amount": "3.0",
+    "sent currency": "AVAX",
+    "hash": "0x0d72ccefb9100478d53ff92aec858c29df8b65b0cf53d2068bcb6c8a4b748ddf",
+    "timeStamp": "1634820614",
+    "tokenDecimal": "18"
+  },
+  {
+    "type": "tx out, tte in",
+    "received amount": "200.01384256131288",
+    "received currency": "JOE",
+    "sent amount": "9.760000000000002",
+    "sent currency": "AVAX",
+    "hash": "0xdc3134aef11379dc1659c5f3de86c1a4b47212057065480981a20fbceb60c5a2",
+    "timeStamp": "1634839529",
+    "tokenDecimal": "18"
+  },
+  {
+    "type": "tx out, tte in",
+    "received amount": "1.0",
+    "received currency": "avWAVAX",
+    "sent amount": "1.0",
+    "sent currency": "AVAX",
+    "hash": "0x789240de56f6d46094a0a7ab51acf93228b8f99d513581ddf780fa2b13c4870c",
+    "timeStamp": "1634848459",
+    "tokenDecimal": "18"
+  },
+  {
+    "type": "tx out, tte in",
+    "received amount": "0.5",
+    "received currency": "variableDebtvWAVAX",
+    "sent amount": "0.0",
+    "sent currency": "AVAX",
+    "hash": "0xe9d95691a656b9176bd0f0dae619db43fab28a54e944bcf4d1fe6214d767f50d",
+    "timeStamp": "1634848642",
+    "tokenDecimal": "18"
+  },
+  {
+    "type": "tx out, tte in",
+    "received amount": "0.25",
+    "received currency": "variableDebtvWAVAX",
+    "sent amount": "0.0",
+    "sent currency": "AVAX",
+    "hash": "0xe3f3cc330742b100e267778a072048451424386f99b13aa1a7e6d018382317b8",
+    "timeStamp": "1634848886",
+    "tokenDecimal": "18"
+  },
+  {
+    "type": "tx out, tte in",
+    "received amount": "600.1415309502038",
+    "received currency": "JOE",
+    "sent amount": "27.900000000000002",
+    "sent currency": "AVAX",
+    "hash": "0xff014a13c4930cfcbcad929263b44a8b0a7eaf712dcaa861a69d3a3bb91f9844",
+    "timeStamp": "1634903322",
+    "tokenDecimal": "18"
+  },
+  {
+    "type": "tx out, tte in",
+    "received amount": "65.0",
+    "received currency": "JOE",
+    "sent amount": "2.674181113265729",
+    "sent currency": "AVAX",
+    "hash": "0x74c976859fea0743148d401768ada03ee1507baa1beee898ccf0ab41dff27c52",
+    "timeStamp": "1635014797",
+    "tokenDecimal": "18"
+  },
+  {
+    "type": "tx out, tte in",
+    "received amount": "200.00000000000003",
+    "received currency": "JOE",
+    "sent amount": "8.116552807162222",
+    "sent currency": "AVAX",
+    "hash": "0x8ab7ccc410a99d12a1eb4a5e8a5698a66dca8f58826e50ae43d204d9c2ea63d4",
+    "timeStamp": "1635019524",
+    "tokenDecimal": "18"
+  },
+  {
+    "type": "tx out, tte in",
+    "received amount": "300.0",
+    "received currency": "JOE",
+    "sent amount": "12.182305039885017",
+    "sent currency": "AVAX",
+    "hash": "0x7fbc4042d957814d82eeb077562987b5f000cd5e15dedc17ee31aed7a1411455",
+    "timeStamp": "1635019574",
+    "tokenDecimal": "18"
+  },
+  {
+    "type": "tx out, tte in",
+    "received amount": "339.79225610787597",
+    "received currency": "JOE",
+    "sent amount": "13.139793687336615",
+    "sent currency": "AVAX",
+    "hash": "0x77b1663e30406b1fd79e0a61f7c984a25be767cf9ce03f63feaef1ac30e9ff1d",
+    "timeStamp": "1635598479",
+    "tokenDecimal": "18"
+  },
+  {
+    "type": "tx out, tte in",
+    "received amount": "700.0124322929521",
+    "received currency": "JOE",
+    "sent amount": "21.400000000000002",
+    "sent currency": "AVAX",
+    "hash": "0xeaf3258691299f5e831dd0dad91bd3e545ea40e6f6202cae508450213824b1b5",
+    "timeStamp": "1636360324",
+    "tokenDecimal": "18"
+  },
+  {
+    "type": "tx out, tte in",
+    "received amount": "747.0729118611125",
+    "received currency": "JOE",
+    "sent amount": "22.942",
+    "sent currency": "AVAX",
+    "hash": "0x30a8796952cc1e60e3fad3556786fca8eea72c7a57b16dc61697e860019db0ab",
+    "timeStamp": "1636373548",
+    "tokenDecimal": "18"
+  },
+  {
+    "type": "tx out, tte in",
+    "received amount": "250.00000000000003",
+    "received currency": "JOE",
+    "sent amount": "8.190413629720775",
+    "sent currency": "AVAX",
+    "hash": "0xc77db45cffce066d3f0152febe3eef383830581ea9a1669febaf230f62af686d",
+    "timeStamp": "1637412660",
+    "tokenDecimal": "18"
+  },
+  {
+    "type": "tx out, tte in",
+    "received amount": "574.438029691792",
+    "received currency": "JOE",
+    "sent amount": "16.94",
+    "sent currency": "AVAX",
+    "hash": "0x6aba7dedd87070e04d2f663565b62bd38d3f0e29ef4a43f2f82072713dc0157a",
+    "timeStamp": "1637772975",
+    "tokenDecimal": "18"
+  },
+  {
+    "type": "tx out, tte in",
+    "received amount": "0.001408407818079798",
+    "received currency": "JOE",
+    "sent amount": "0.0",
+    "sent currency": "AVAX",
+    "hash": "0xa64b25369b6b5f8bf2effc8233d0def8d5027ab2d83dbca6c35618d7ad3e56a8",
+    "timeStamp": "1638597809",
+    "tokenDecimal": "18"
+  },
+  {
+    "type": "tx out, tte in",
+    "received amount": "1500.0",
+    "received currency": "xJOE",
+    "sent amount": "0.0",
+    "sent currency": "AVAX",
+    "hash": "0xa64b25369b6b5f8bf2effc8233d0def8d5027ab2d83dbca6c35618d7ad3e56a8",
+    "timeStamp": "1638597809",
+    "tokenDecimal": "18"
+  },
+  {
+    "type": "tx out, tte in",
+    "received amount": "0.39211920858101934",
+    "received currency": "JOE",
+    "sent amount": "0.0",
+    "sent currency": "AVAX",
+    "hash": "0x2bf8ec1ec3b5d534116239201e7cc94b16899d964ad0d01775757b6f310fd885",
+    "timeStamp": "1638618022",
+    "tokenDecimal": "18"
+  },
+  {
+    "type": "tx out, tte in",
+    "received amount": "1000.0000000000001",
+    "received currency": "xJOE",
+    "sent amount": "0.0",
+    "sent currency": "AVAX",
+    "hash": "0x2bf8ec1ec3b5d534116239201e7cc94b16899d964ad0d01775757b6f310fd885",
+    "timeStamp": "1638618022",
+    "tokenDecimal": "18"
+  },
+  {
+    "type": "tx out, tte in",
+    "received amount": "0.011316390514710152",
+    "received currency": "JOE",
+    "sent amount": "0.0",
+    "sent currency": "AVAX",
+    "hash": "0x20431b3457873c8061ad1899098d8b3042eb3087af7b6e05713618696e1d87d0",
+    "timeStamp": "1638619068",
+    "tokenDecimal": "18"
+  },
+  {
+    "type": "tx out, tte in",
+    "received amount": "1259.7043776122048",
+    "received currency": "xJOE",
+    "sent amount": "0.0",
+    "sent currency": "AVAX",
+    "hash": "0x20431b3457873c8061ad1899098d8b3042eb3087af7b6e05713618696e1d87d0",
+    "timeStamp": "1638619068",
+    "tokenDecimal": "18"
+  },
+  {
+    "type": "tx out, tte in",
+    "received amount": "95.0",
+    "received currency": "MIM",
+    "sent amount": "1.0765018000203739",
+    "sent currency": "AVAX",
+    "hash": "0x60f133450b50dfcbf67a7bb675a28ce0cc69af162b8cf6d1667d0e4b3f732474",
+    "timeStamp": "1638696569",
+    "tokenDecimal": "18"
+  }
+]
