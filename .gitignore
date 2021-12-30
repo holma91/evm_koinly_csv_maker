@@ -2,4 +2,5 @@ env_vars.py
 __pycache__
 env
 *.json
+src/data
 *.csv

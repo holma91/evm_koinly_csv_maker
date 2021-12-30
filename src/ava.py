@@ -182,7 +182,7 @@ def main(address):
             res = is_avax_to_erc20(transactions, tte)
             if res:
                 if float(res['sent amount']) == 0.0:
-                    erc20_to_someone.append(res)
+                    erc20_to_someone.append(res)  # change obj type here
                 else:
                     avax_to_erc20.append(res)
                 continue
@@ -216,7 +216,7 @@ def main(address):
                     avax_to_someone.append(res)
                 continue
 
-    print(json.dumps(avax_approval, indent=2))
+    print(json.dumps(avax_to_erc20, indent=2))
 
     # sorted_all_txs = sorted(transactions + erc20_transfers, key=itemgetter('timeStamp'))
 
